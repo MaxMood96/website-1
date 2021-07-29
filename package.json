@@ -4,7 +4,7 @@
   "description": "Redash Website & Knowledge Base",
   "main": "n/a",
   "dependencies": {
-    "algoliasearch": "^3.32.0",
+    "algoliasearch": "^4.10.3",
     "bootstrap-sass": "^3.4.0",
     "gatsby": "2.0.91",
     "gatsby-image": "2.0.25",
