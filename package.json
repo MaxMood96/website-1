@@ -44,7 +44,7 @@
     "@fortawesome/free-brands-svg-icons": "5.15.4",
     "@fortawesome/free-solid-svg-icons": "5.15.4",
     "@fortawesome/react-fontawesome": "0.2.0",
-    "animate.css": "3.7.0",
+    "animate.css": "3.7.2",
     "@babel/eslint-parser": "7.11.0",
     "emergence.js": "1.1.2",
     "eslint": "5.11.0",
