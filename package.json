@@ -36,7 +36,7 @@
     "gatsby-transformer-sharp": "2.1.9",
     "gatsby-transformer-yaml": "^2.1.6",
     "package.json": "^2.0.1",
-    "react-bootstrap": "^0.32.4",
+    "react-bootstrap": "^0.33.0",
     "source-map": "^0.7.3"
   },
   "devDependencies": {
