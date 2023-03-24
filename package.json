@@ -47,7 +47,7 @@
     "animate.css": "3.7.2",
     "@babel/eslint-parser": "7.21.3",
     "emergence.js": "1.1.2",
-    "eslint": "5.11.0",
+    "eslint": "5.16.0",
     "eslint-config-prettier": "3.3.0",
     "eslint-plugin-prettier": "3.0.0",
     "eslint-plugin-react": "7.11.1",
