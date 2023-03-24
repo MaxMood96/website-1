@@ -40,9 +40,9 @@
     "source-map": "^0.7.3"
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.36",
-    "@fortawesome/free-brands-svg-icons": "5.15.4",
-    "@fortawesome/free-solid-svg-icons": "5.15.4",
+    "@fortawesome/fontawesome-svg-core": "6.3.0",
+    "@fortawesome/free-brands-svg-icons": "6.3.0",
+    "@fortawesome/free-solid-svg-icons": "6.3.0",
     "@fortawesome/react-fontawesome": "0.2.0",
     "animate.css": "3.7.2",
     "@babel/eslint-parser": "7.21.3",
