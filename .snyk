@@ -1,0 +1,52 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - gatsby-plugin-netlify > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: gatsby-plugin-netlify > lodash
+    - eslint > inquirer > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: eslint > inquirer > lodash
+    - gatsby-plugin-algolia > gatsby-cli > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: gatsby-plugin-algolia > gatsby-cli > lodash
+    - babel-eslint > @babel/traverse > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-eslint > @babel/traverse > lodash
+    - eslint > table > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: eslint > table > lodash
+    - babel-eslint > @babel/traverse > @babel/generator > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-eslint > @babel/traverse > @babel/generator > lodash
+    - babel-eslint > @babel/traverse > @babel/generator > @babel/types > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-eslint > @babel/traverse > @babel/generator > @babel/types >
+          lodash
+    - gatsby-plugin-algolia > gatsby-cli > yurnalist > inquirer > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: gatsby-plugin-algolia > gatsby-cli > yurnalist > inquirer > lodash
+    - gatsby > @babel/core > @babel/helpers > @babel/traverse > @babel/generator > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          gatsby > @babel/core > @babel/helpers > @babel/traverse >
+          @babel/generator > lodash
+    - gatsby > @babel/core > @babel/helpers > @babel/traverse > @babel/generator > @babel/types > lodash:
+        patched: '2023-07-06T05:48:13.448Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          gatsby > @babel/core > @babel/helpers > @babel/traverse >
+          @babel/generator > @babel/types > lodash
