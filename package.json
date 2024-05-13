@@ -30,7 +30,7 @@
     "gatsby-remark-responsive-iframe": "2.0.8",
     "gatsby-remark-smartypants": "2.0.7",
     "gatsby-remark-video": "^1.2.5",
-    "gatsby-source-filesystem": "2.0.12",
+    "gatsby-source-filesystem": "4.21.0",
     "gatsby-transformer-json": "^2.1.6",
     "gatsby-transformer-remark": "2.1.17",
     "gatsby-transformer-sharp": "2.1.9",
