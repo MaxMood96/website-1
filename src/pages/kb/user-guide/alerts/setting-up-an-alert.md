@@ -18,7 +18,7 @@ order: 1
 
 Redash alerts notify you when a field returned by a [**Scheduled
 Query**]({% link _kb/user-guide/querying/scheduling-a-query.md %}) meets a
-threshhold. Use them to monitor your business. Or integrate them with tools like
+threshold. Use them to monitor your business. Or integrate them with tools like
 Zapier or IFTTT to kickoff workflows such as user onboarding or support tickets.
 Alerts complement scheduled queries, but their criteria are checked after every
 execution.
@@ -122,11 +122,11 @@ To resume notifications again, click the vertical ellipsis menu and choose _Unmu
 # Alert Statuses
 
 - `TRIGGERED` means that on the most recent execution, the _Value Column_ in
-  your target query met the _Condition_ and _Threshhold_ you configured. If your
+  your target query met the _Condition_ and _Threshold_ you configured. If your
   alert checks whether "cats" is above 1500, your alert will be triggered as
   long as "cats" is above 1500.
 - `OK` means that on the most recent query execution, the _Value Column_ did not
-  meet the _Condition_ and _Threshhold_ you configured. This doesn't mean that
+  meet the _Condition_ and _Threshold_ you configured. This doesn't mean that
   the Alert was not triggered previously. If your "cats" value is now 1470 your
   alert will show as OK.
 - `UNKNOWN` means Redash does not have enough data to evaluate the alert
