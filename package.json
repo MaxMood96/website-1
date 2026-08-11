@@ -61,7 +61,7 @@
     "gh-pages": "6.3.0",
     "husky": "9.1.7",
     "lint-staged": "15.2.10",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "modern-normalize": "3.0.1",
     "node-sass": "9.0.0",
     "prettier": "3.3.3",
@@ -69,9 +69,9 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-helmet": "6.1.0",
-    "textlint": "14.3.0",
+    "textlint": "15.5.1",
     "textlint-rule-preset-ja-spacing": "2.4.3",
-    "textlint-rule-preset-japanese": "10.0.3"
+    "textlint-rule-preset-japanese": "10.0.4"
   },
   "resolutions": {
     "natives": "1.1.3"
