@@ -71,7 +71,7 @@
     "react-helmet": "6.1.0",
     "textlint": "14.3.0",
     "textlint-rule-preset-ja-spacing": "2.4.3",
-    "textlint-rule-preset-japanese": "10.0.3"
+    "textlint-rule-preset-japanese": "10.0.4"
   },
   "resolutions": {
     "natives": "1.1.3"
